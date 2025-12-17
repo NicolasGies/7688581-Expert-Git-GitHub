@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-Nicolas Meyer
+Nicolas Meyer GIES
 
 ## License
 
